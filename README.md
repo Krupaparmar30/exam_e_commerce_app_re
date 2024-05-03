@@ -1,4 +1,3 @@
-![Screenshot_20240503_184028](https://github.com/Krupaparmar30/exam_e_commerce_app_re/assets/149374671/23529534-0b76-4a0e-9c65-1100076cb3f7)# exam_e_commerce_app_re
 
 A new Flutter project.
 
